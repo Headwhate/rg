@@ -1,0 +1,9 @@
+body {background-color: black;}
+p {color: white;}
+
+#banner1 { background-color:#D3DE41; height: 40px; width: 100%; display: flex; flex-wrap: nowrap; justify-content: space-between;}
+
+
+#P {display:flex; flex-direction: row; aligncontent: center; justify-content: space-between; flex-wrap: nowrap; }
+
+
